@@ -1,2 +1,2 @@
 # Grocery-store
-By goods online
+Buy goods online
